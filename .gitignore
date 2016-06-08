@@ -1,0 +1,11 @@
+# Ignore archive files
+/archive
+
+# Ignore visualizations since those will have a separate repo for them
+/visualizations
+
+# Ignore documents
+/docs
+
+# Ignore mac directory files
+.DS_Store
