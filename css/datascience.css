@@ -420,3 +420,6 @@ span.publication:hover i.fa-square {
   font-weight: 300;
   color: #222222;
 }
+span.booktitle {
+  font-weight: bold;
+}
