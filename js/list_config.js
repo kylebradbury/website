@@ -25,7 +25,7 @@ var options2 = {
 var courseList = new List('classes', options2);
 
 $(document).ready(function () {
-    $('#filter-material').change(function () {
+    $('#filter-material2').change(function () {
         var selection = this.value;
         if (selection) {
             courseList.filter(function(item) {
