@@ -1,14 +1,15 @@
-var options = {
+// Resources
+var options_resources = {
   valueNames: [ 'author', 'title', 'category', 'year', 'starred' ]
 };
 
-var userList = new List('users', options);
+var resourceList = new List('table-resources', options_resources);
 
 $(document).ready(function () {
     $('#filter-material').change(function () {
         var selection = this.value;
         if (selection) {
-            userList.filter(function(item) {
+            resourceList.filter(function(item) {
                 return (item.values().category == selection);
             });
         } else {
@@ -17,22 +18,23 @@ $(document).ready(function () {
     });
 });
 
-
-var options2 = {
+// Courses
+var options_courses = {
   valueNames: [ 'author', 'title', 'designation', 'university', 'year', 'starred']
 };
 
-var courseList = new List('classes', options2);
+var courseList = new List('table-courses', options_courses);
 
-$(document).ready(function () {
-    $('#filter-material2').change(function () {
-        var selection = this.value;
-        if (selection) {
-            courseList.filter(function(item) {
-                return (item.values().category == selection);
-            });
-        } else {
-            courseList.filter();
-        }
-    });
-});
+// Tools
+var options_tools = {
+  valueNames: [ 'name', 'topic', 'description']
+};
+
+var toolList = new List('table-tools', options_tools);
+
+// Videos
+var options_videos = {
+  valueNames: [ 'author', 'organization', 'name', 'description']
+};
+
+var videoList = new List('table-videos', options_videos);
