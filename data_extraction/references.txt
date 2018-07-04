@@ -1,0 +1,1152 @@
+
+####### COURSES ######
+
+<table class="table">
+	<thead>
+	<tr>
+		<th>Instructor</th>
+		<th>Title</th>
+		<th>Designation</th>
+		<th>University</th>
+		<th>Year</th>
+		<th></th>
+	</tr>
+	</thead>
+	<tbody class="list">
+		<tr>
+			<td class="author">Siegel</td>
+			<td class="title"><span class="booktitle"><a href='http://people.duke.edu/~das76/MooSieBook.html' target="_blank">A Mathematics Course for Political and Social Researchers</a></span</td>
+			<td class="designation">None</span></td>
+			<td class="university">Duke University</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Adams</td>
+			<td class="title"><span class="booktitle"><a href='https://www.seas.harvard.edu/courses/cs281/' target="_blank">Advanced Machine Learning</a></span</td>
+			<td class="designation">CS 281</span></td>
+			<td class="university">Harvard University</span></td>
+			<td class="year">2013</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Gogate</td>
+			<td class="title"><span class="booktitle"><a href='http://www.hlt.utdallas.edu/~vgogate/ml/2017s/lectures.html' target="_blank">Advanced Machine Learning</a></span</td>
+			<td class="designation">CS 7301</span></td>
+			<td class="university">University of Texas at Dallas</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Krause</td>
+			<td class="title"><span class="booktitle"><a href='http://courses.cms.caltech.edu/cs253/index.html' target="_blank">Advanced Topics in Machine Learning</a></span</td>
+			<td class="designation">CS 253</span></td>
+			<td class="university">California Institute of Technology</span></td>
+			<td class="year">2010</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Mueller</td>
+			<td class="title"><span class="booktitle"><a href='https://amueller.github.io/applied_ml_spring_2017/' target="_blank">Applied Machine Learning</a></span</td>
+			<td class="designation">COMS W4995</span></td>
+			<td class="university">Columbia</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Berenson</td>
+			<td class="title"><span class="booktitle"><a href='http://web.eecs.umich.edu/~dmitryb/courses/fall15ai/index.html' target="_blank">Artificial Intelligence</a></span</td>
+			<td class="designation">CS 534</span></td>
+			<td class="university">Worchester Polytechnic Institute</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Winston</td>
+			<td class="title"><span class="booktitle"><a href='https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/' target="_blank">Artificial Intelligence</a></span</td>
+			<td class="designation">OpenCourseware</span></td>
+			<td class="university">Massachusetts Institute of Technology</span></td>
+			<td class="year">2010</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Chan</td>
+			<td class="title"><span class="booktitle"><a href='http://people.duke.edu/~ccc14/sta-663-2015/' target="_blank">Computational Statistics in Python</a></span</td>
+			<td class="designation">STA 663</span></td>
+			<td class="university">Duke University</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Chan</td>
+			<td class="title"><span class="booktitle"><a href='https://people.duke.edu/~ccc14/sta-663-2017/' target="_blank">Computational Statistics in Python</a></span</td>
+			<td class="designation">STA 663</span></td>
+			<td class="university">Duke University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Li</td>
+			<td class="title"><span class="booktitle"><a href='http://cs231n.stanford.edu/syllabus.html' target="_blank">Convolutional Neural Networks for Visual Recognition</a></span</td>
+			<td class="designation">CS 231n</span></td>
+			<td class="university">Stanford University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Walther</td>
+			<td class="title"><span class="booktitle"><a href='http://web.stanford.edu/class/stats202/' target="_blank">Data Mining and Analysis</a></span</td>
+			<td class="designation">Stats 202</span></td>
+			<td class="university">Stanford University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Arnold</td>
+			<td class="title"><span class="booktitle"><a href='http://euler.stat.yale.edu/~tba3/stat665/' target="_blank">Data Mining and Machine Learning</a></span</td>
+			<td class="designation">STAT 365/665</span></td>
+			<td class="university">Yale University</span></td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Irizarry</td>
+			<td class="title"><span class="booktitle"><a href='http://cs109.github.io/2014/index.html' target="_blank">Data Science</a></span</td>
+			<td class="designation">CS 109</span></td>
+			<td class="university">Harvard University</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Klein</td>
+			<td class="title"><span class="booktitle"><a href='http://ai.berkeley.edu/home.html' target="_blank">Introduction to Artificial Intelligence</a></span</td>
+			<td class="designation">CS 188</span></td>
+			<td class="university">University of California, Berkeley</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Konidaris</td>
+			<td class="title"><span class="booktitle"><a href='https://www.cs.duke.edu/courses/spring16/compsci270/' target="_blank">Introduction to Artificial Intelligence</a></span</td>
+			<td class="designation">CPS 270</span></td>
+			<td class="university">Duke University</span></td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Lex</td>
+			<td class="title"><span class="booktitle"><a href='http://datasciencecourse.net/2016/' target="_blank">Introduction to Data Science</a></span</td>
+			<td class="designation">CS 5963</span></td>
+			<td class="university">University of Utah</span></td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Chen</td>
+			<td class="title"><span class="booktitle"><a href='https://github.com/GeorgetownMcCourt/data-science' target="_blank">Introduction to Data Science for Public Policy</a></span</td>
+			<td class="designation">PPOL 670</span></td>
+			<td class="university">Georgetown University</span></td>
+			<td class="year">2018</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Shewchuk</td>
+			<td class="title"><span class="booktitle"><a href='https://people.eecs.berkeley.edu/~jrs/189/' target="_blank">Introduction to Machine Learning</a></span</td>
+			<td class="designation">CS 189</span></td>
+			<td class="university">University of California, Berkeley</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Srihari</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cedar.buffalo.edu/~srihari/CSE574/index.html' target="_blank">Introduction to Machine Learning</a></span</td>
+			<td class="designation">CSE 574</span></td>
+			<td class="university">University at Buffalo</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Vishwanathan</td>
+			<td class="title"><span class="booktitle"><a href='http://www.stat.purdue.edu/~vishy/introml/introml.html' target="_blank">Introduction to Machine Learning</a></span</td>
+			<td class="designation">CS 590</span></td>
+			<td class="university">Purdue University</span></td>
+			<td class="year">2010</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Harrington</td>
+			<td class="title"><span class="booktitle"><a href='https://github.com/kephale/TuftsCOMP135_Spring2016' target="_blank">Introduction to Machine Learning and Data Mining</a></span</td>
+			<td class="designation">COMP 135</span></td>
+			<td class="university">Tufts University</span></td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Abu-Mostafa</td>
+			<td class="title"><span class="booktitle"><a href='http://work.caltech.edu/lectures.html#lectures' target="_blank">Learning From Data</a></span</td>
+			<td class="designation">MOOC</span></td>
+			<td class="university">California Institute of Technology</span></td>
+			<td class="year">2010</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Dietterich</td>
+			<td class="title"><span class="booktitle"><a href='http://web.engr.oregonstate.edu/~tgd/classes/534/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CS 534</span></td>
+			<td class="university">Oregon State University</span></td>
+			<td class="year">2005</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Domingos</td>
+			<td class="title"><span class="booktitle"><a href='https://courses.cs.washington.edu/courses/cse446/14wi/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CSE 446</span></td>
+			<td class="university">University of Washington</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Domingos</td>
+			<td class="title"><span class="booktitle"><a href='https://courses.cs.washington.edu/courses/cse546/10wi/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CSE 546</span></td>
+			<td class="university">University of Washington</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Fern</td>
+			<td class="title"><span class="booktitle"><a href='http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CS 534</span></td>
+			<td class="university">Oregon State University</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Guestrin</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cs.cmu.edu/~guestrin/Class/10701/hws.html' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">10-601</span></td>
+			<td class="university">Carnegie Mellon University</span></td>
+			<td class="year">2007</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Jamieson</td>
+			<td class="title"><span class="booktitle"><a href='https://courses.cs.washington.edu/courses/cse546/17au/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CSE 546</span></td>
+			<td class="university">University of Washington</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Kakade</td>
+			<td class="title"><span class="booktitle"><a href='https://courses.cs.washington.edu/courses/cse546/16au/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CSE 546</span></td>
+			<td class="university">University of Washington</span></td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Mitchell</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">10-601</span></td>
+			<td class="university">Carnegie Mellon University</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ng</td>
+			<td class="title"><span class="booktitle"><a href='https://see.stanford.edu/Course/CS229' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CS 229</span></td>
+			<td class="university">Stanford University</span></td>
+			<td class="year">Unknown</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Shavlik</td>
+			<td class="title"><span class="booktitle"><a href='http://pages.cs.wisc.edu/~shavlik/cs760.html' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CS 760</span></td>
+			<td class="university">University of Wisconsin</span></td>
+			<td class="year">2010</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Wang</td>
+			<td class="title"><span class="booktitle"><a href='http://www.ccs.neu.edu/home/luwang/courses/cs6140_sp2017.html' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CS 6140</span></td>
+			<td class="university">Northeastern University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Weinberger</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cs.cornell.edu/courses/cs4780/2017sp/' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">CS 4780</span></td>
+			<td class="university">Cornell University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Zisserman</td>
+			<td class="title"><span class="booktitle"><a href='http://www.robots.ox.ac.uk/~az/lectures/ml/index.html' target="_blank">Machine Learning</a></span</td>
+			<td class="designation">C19</span></td>
+			<td class="university">Oxford University</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ihler</td>
+			<td class="title"><span class="booktitle"><a href='http://sli.ics.uci.edu/Classes/2011W-178' target="_blank">Machine Learning and Data Mining</a></span</td>
+			<td class="designation">CS 178</span></td>
+			<td class="university">University of California, Irvine</span></td>
+			<td class="year">2011</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Paisley</td>
+			<td class="title"><span class="booktitle"><a href='http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html' target="_blank">Machine Learning for Data Science</a></span</td>
+			<td class="designation">COMS W4721</span></td>
+			<td class="university">Columbia</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Salleb-Aouissi</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cs.columbia.edu/~ansaf/courses/4721/index.html#' target="_blank">Machine Learning for Data Science</a></span</td>
+			<td class="designation">COMS 4721</span></td>
+			<td class="university">Columbia</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ullman</td>
+			<td class="title"><span class="booktitle"><a href='http://web.stanford.edu/class/cs246/' target="_blank">Mining of Massive Data Sets</a></span</td>
+			<td class="designation">CS 246</span></td>
+			<td class="university">Stanford University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Huyen</td>
+			<td class="title"><span class="booktitle"><a href='http://web.stanford.edu/class/cs20si/index.html' target="_blank">Tensorflow for Deep Learning Research</a></span</td>
+			<td class="designation">CS 20SI</span></td>
+			<td class="university">Stanford University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Donoho</td>
+			<td class="title"><span class="booktitle"><a href='https://stats385.github.io/' target="_blank">Theories of Deep Learning</a></span</td>
+			<td class="designation">STATS 385</span></td>
+			<td class="university">Stanford University</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+	</tbody>
+</table>
+
+####### REFERENCES ######
+
+<table class="table">
+	<thead>
+	<tr>
+		<th>Author</th>
+		<th>Name</th>
+		<th>Topic</th>
+		<th>Year</th>
+		<th></th>
+	</tr>
+	</thead>
+	<tbody class="list">
+		<tr>
+			<td class="author">Donoho, David</td>
+			<td class="title"><span class="booktitle"><a href='http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf' target="_blank">50 Years of Data Science</a></span></td>
+			<td class="category">Data Science as a Field</span></td>
+			<td class="year">2015</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Kriesel, David</td>
+			<td class="title"><span class="booktitle"><a href='http://www.dkriesel.com/en/science/neural_networks' target="_blank">A Brief Introduction to Neural Networks</a></span></td>
+			<td class="category">Machine Learning - Deep Learning and Neural Networks</td>
+			<td class="year">2007</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Daumé III, Hal</td>
+			<td class="title"><span class="booktitle"><a href='http://ciml.info/' target="_blank">A Course in Machine Learning</a></span></td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Beezer, Robert Arnold</td>
+			<td class="title"><span class="booktitle"><a href='http://linear.ups.edu/download/fcla-3.50-tablet.pdf' target="_blank">A First Course in Linear Algebra</a></span></td>
+			<td class="category">Mathematics - Linear Algebra</td>
+			<td class="year">2008</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ross, Sheldon</td>
+			<td class="title">A First Course in Probability</td>
+			<td class="category">Probability and Statistics</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Yee, Stephanie, and Tony Chu</td>
+			<td class="title"><span class="booktitle"><a href='http://www.r2d3.us/' target="_blank">A Visual Introduction to Machine Learning</a></span></td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Shalizi, Cosma</td>
+			<td class="title"><span class="booktitle"><a href='http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/' target="_blank">Advanced Data Analysis from an Elementary Point of View</a></span></td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Wickham, Hadley</td>
+			<td class="title"><span class="booktitle"><a href='http://adv-r.had.co.nz/' target="_blank">Advanced R</a></span></td>
+			<td class="category">Programming - R</td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Smilkov, Daniel and Shan Carter</td>
+			<td class="title"><span class="booktitle"><a href='http://playground.tensorflow.org/' target="_blank">An Interactive Neural Network Playground</a></span></td>
+			<td class="category">Machine Learning - Deep Learning and Neural Networks</td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Venables, W., and D. Smith</td>
+			<td class="title"><span class="booktitle"><a href='https://cran.r-project.org/doc/manuals/R-intro.pdf' target="_blank">An Introduction to R</a></span></td>
+			<td class="category">Programming - R</td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani</td>
+			<td class="title"><span class="booktitle"><a href='http://www-bcf.usc.edu/~gareth/ISL/' target="_blank">An Introduction to Statistical Learning</a></span></td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2013</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Sweigart, Al</td>
+			<td class="title"><span class="booktitle"><a href='https://automatetheboringstuff.com/' target="_blank">Automate the Boring Stuff with Python: Practical Programming for Total Beginners</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ash, Robert B.</td>
+			<td class="title"><span class="booktitle"><a href='http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf' target="_blank">Basic Probability Theory</a></span></td>
+			<td class="category">Probability and Statistics</span></td>
+			<td class="year">1970</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Davidson-Pilon, Cameron</td>
+			<td class="title"><span class="booktitle"><a href='http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/' target="_blank">Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference</a></span></td>
+			<td class="category">Machine Learning - Bayesian Methods</td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Barber, David</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cs.ucl.ac.uk/staff/d.barber/brml/' target="_blank">Bayesian Reasoning and Machine Learning</a></span></td>
+			<td class="category">Machine Learning - Bayesian Methods</td>
+			<td class="year">2012</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Marsden, Jerrold and Alan Weinsten</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cds.caltech.edu/~marsden/volume/Calculus/' target="_blank">Calculus 1, 2, and 3. 2nd Edition</a></span></td>
+			<td class="category">Mathematics - Calculus</td>
+			<td class="year">1985</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Hartman, Gregory</td>
+			<td class="title"><span class="booktitle"><a href='http://www.apexcalculus.com/downloads/' target="_blank">Calculus 1, 2, and 3. 3rd Edition</a></span></td>
+			<td class="category">Mathematics - Calculus</td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Stewart, James</td>
+			<td class="title">Calculus: Early Transcendentals. 8th Edition</td>
+			<td class="category">Mathematics - Calculus</td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Strang, Gilbert</td>
+			<td class="title"><span class="booktitle"><a href='http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/' target="_blank">Calculus: MIT Open Courseware</a></span></td>
+			<td class="category">Mathematics - Calculus</td>
+			<td class="year">1991</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Guichard, David</td>
+			<td class="title"><span class="booktitle"><a href='http://communitycalculus.org/' target="_blank">Community Calculus</a></span></td>
+			<td class="category">Mathematics - Calculus</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Maclean, Malcom</td>
+			<td class="title"><span class="booktitle"><a href='https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-leanpub' target="_blank">D3 Tips and Tricks</a></span></td>
+			<td class="category">Visualization - D3</td>
+			<td class="year">2013</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Swanstrom, Ryan</td>
+			<td class="title"><span class="booktitle"><a href='http://101.datascience.community/2012/04/09/colleges-with-data-science-degrees/' target="_blank">Data Science University Programs</a></span></td>
+			<td class="category">Data Science as a Field</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Lin, Jimmy, and Chris Dyer</td>
+			<td class="title"><span class="booktitle"><a href='http://lintool.github.io/MapReduceAlgorithms/' target="_blank">Data-Intesive Text Processing with MapReduce</a></span></td>
+			<td class="category">Programming - MapReduce</td>
+			<td class="year">2010</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Goodfellow, Ian, Yoshua Bengio, and Aaron Courville</td>
+			<td class="title"><span class="booktitle"><a href='http://www.deeplearningbook.org/' target="_blank">Deep Learning</a></span></td>
+			<td class="category">Machine Learning - Deep Learning and Neural Networks</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ng, Andrew</td>
+			<td class="title"><span class="booktitle"><a href='http://ufldl.stanford.edu/tutorial/' target="_blank">Deep Learning Tutorial</a></span></td>
+			<td class="category">Machine Learning - Deep Learning and Neural Networks</td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Trench, William</td>
+			<td class="title"><span class="booktitle"><a href='http://digitalcommons.trinity.edu/mono/8/' target="_blank">Elementary Differential Equations</a></span></td>
+			<td class="category">Mathematics - Differential Equations</td>
+			<td class="year">2013</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Rougier, Nicholas</td>
+			<td class="title"><span class="booktitle"><a href='http://www.labri.fr/perso/nrougier/from-python-to-numpy/' target="_blank">From Python to Numpy</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Rasmussen, Carl Edward, and Christopher Williams</td>
+			<td class="title"><span class="booktitle"><a href='http://www.gaussianprocess.org/gpml/chapters/' target="_blank">Gaussian Processes for Machine Learning</a></span></td>
+			<td class="category">Probability and Statistics - Gaussian Processes</td>
+			<td class="year">2006</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Chacon, Scott</td>
+			<td class="title"><span class="booktitle"><a href='https://github.com/pluralsight/git-internals-pdf' target="_blank">Git Internals</a></span></td>
+			<td class="category">Programming - Version Control</td>
+			<td class="year">2008</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Atlassian</td>
+			<td class="title"><span class="booktitle"><a href='https://www.atlassian.com/git/tutorials/' target="_blank">Git Tutorial</a></span></td>
+			<td class="category">Programming - Version Control</td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Grinstead, Charles and James Snell</td>
+			<td class="title"><span class="booktitle"><a href='https://math.dartmouth.edu/~prob/prob/prob.pdf' target="_blank">Grinstead and Snell’s Introduction to Probability</a></span></td>
+			<td class="category">Probability and Statistics</span></td>
+			<td class="year">2006</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Géron, Aurélien</td>
+			<td class="title">Hands-On Machine Learning with Scikit-Learn and TensorFlow</td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Ström, J., K. Åström, and T. Akenine-Möller</td>
+			<td class="title"><span class="booktitle"><a href='http://immersivemath.com/ila/index.html' target="_blank">Immersive Linear Algebra</a></span></td>
+			<td class="category">Mathematics - Linear Algebra</td>
+			<td class="year">2016</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">MacKay, David</td>
+			<td class="title"><span class="booktitle"><a href='http://www.inference.phy.cam.ac.uk/mackay/itila/book.html' target="_blank">Information Theory, Inference and Learning Algorithms</a></span></td>
+			<td class="category">Probability and Statistics - Information Theory</td>
+			<td class="year">2003</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Murray, Scott</td>
+			<td class="title"><span class="booktitle"><a href='http://chimera.labs.oreilly.com/books/1230000000345' target="_blank">Interactive Data Visualization for the Web</a></span></td>
+			<td class="category">Visualization - D3</td>
+			<td class="year">2013</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Vandenberghe, L.</td>
+			<td class="title"><span class="booktitle"><a href='https://web.stanford.edu/~boyd/vmls/' target="_blank">Introduction to Applied Linear Algebra</a></span></td>
+			<td class="category">Mathematics - Linear Algebra</td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Shaw, Zed</td>
+			<td class="title"><span class="booktitle"><a href='http://learnpythonthehardway.org/book/' target="_blank">Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2013</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Navarro, Daniel</td>
+			<td class="title"><span class="booktitle"><a href='http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/' target="_blank">Learning Statistics with R: A Tutorial for Psychology Students and Other Beginners (version 0.5)</a></span></td>
+			<td class="category">Programming - R</td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Hefferon, Jim</td>
+			<td class="title"><span class="booktitle"><a href='http://joshua.smcvt.edu/linearalgebra/book.pdf' target="_blank">Linear Algebra</a></span></td>
+			<td class="category">Mathematics - Linear Algebra</td>
+			<td class="year">2006</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Lay, David</td>
+			<td class="title">Linear Algebra and Its Applications</td>
+			<td class="category">Mathematics - Linear Algebra</td>
+			<td class="year">2006</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Treil, Sergei</td>
+			<td class="title"><span class="booktitle"><a href='http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf' target="_blank">Linear Algebra Done Wrong</a></span></td>
+			<td class="category">Mathematics - Linear Algebra</td>
+			<td class="year">2004</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Leskovec, Jure, Anand Rajaraman, and Jeffrey Ullman</td>
+			<td class="title"><span class="booktitle"><a href='http://www.mmds.org/' target="_blank">Mining of Massive Datasets</a></span></td>
+			<td class="category">Programming - MapReduce</td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">MySQL</td>
+			<td class="title"><span class="booktitle"><a href='http://dev.mysql.com/doc/refman/5.7/en/tutorial.html' target="_blank">MySQL Tutorial</a></span></td>
+			<td class="category">Programming - SQL</td>
+			<td class="year">1997</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Nielsen, Michael</td>
+			<td class="title"><span class="booktitle"><a href='http://neuralnetworksanddeeplearning.com/' target="_blank">Neural Networks and Deep Learning</a></span></td>
+			<td class="category">Machine Learning - Deep Learning and Neural Networks</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Lebl, Jiří</td>
+			<td class="title"><span class="booktitle"><a href='http://www.jirka.org/diffyqs/htmlver/diffyqs.html' target="_blank">Notes on Diffy Qs: Differential Equations for Engineering</a></span></td>
+			<td class="category">Mathematics - Differential Equations</td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Few, Stephen</td>
+			<td class="title">Now You See It: Simple Visualization Techniques for Quantitative Analysis</td>
+			<td class="category">Visualization - Design</td>
+			<td class="year">2009</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Carethell, Clare</td>
+			<td class="title"><span class="booktitle"><a href='http://datasciencemasters.org/' target="_blank">Open Data Science Masters Curriculum</a></span></td>
+			<td class="category">Data Science as a Field</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Diez, David, Christopher Barr, and Mine Cetinkaya-Rundel</td>
+			<td class="title"><span class="booktitle"><a href='https://www.openintro.org/stat/textbook.php?stat_book=reset' target="_blank">OpenIntro Statistics</a></span></td>
+			<td class="category">Probability and Statistics</span></td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Gertz, M.</td>
+			<td class="title"><span class="booktitle"><a href='http://www.mathcs.emory.edu/~cheung/Courses/377/Others/tutorial.pdf' target="_blank">Oracle/SQL Tutorial</a></span></td>
+			<td class="category">Programming - SQL</td>
+			<td class="year">2000</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Duda, Richard O., Peter E. Hart, and David G. Stork</td>
+			<td class="title">Pattern Classification</td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2012</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Bishop, Christopher</td>
+			<td class="title">Pattern Recognition</td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2006</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">VanderPlas, Jake</td>
+			<td class="title"><span class="booktitle"><a href='https://jakevdp.github.io/PythonDataScienceHandbook/' target="_blank">Python Data Science Handbook</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Severance, Charls</td>
+			<td class="title"><span class="booktitle"><a href='http://www.pythonlearn.com/book.php' target="_blank">Python for Informatics</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Raschka, Sebastian</td>
+			<td class="title">Python Machine Learning, Second Ediction</td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Grolemund, Garrett, and Hadley Wickham</td>
+			<td class="title"><span class="booktitle"><a href='http://r4ds.had.co.nz/' target="_blank">R for Data Science</a></span></td>
+			<td class="category">Programming - R</td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Skinner, Grant</td>
+			<td class="title"><span class="booktitle"><a href='http://regexr.com/' target="_blank">RegExr</a></span></td>
+			<td class="category">Programming - Regular Expressions</td>
+			<td class="year">Unknown</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Sutton, Richard, and Andrew Barto</td>
+			<td class="title"><span class="booktitle"><a href='http://www.incompleteideas.net/book/bookdraft2017nov5.pdf' target="_blank">Reinforcement Learning: An Introduction</a></span></td>
+			<td class="category">Machine Learning - Reinforcement Learning</td>
+			<td class="year">2010</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Varoquaux et al.</td>
+			<td class="title"><span class="booktitle"><a href='http://www.scipy-lectures.org/' target="_blank">Scipy Lecture Notes</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Friedman, Jerome, Trevor Hastie, and Robert Tibshirani</td>
+			<td class="title"><span class="booktitle"><a href='https://web.stanford.edu/~hastie/ElemStatLearn/' target="_blank">The Elements of Statistical Learning (2nd Edition)</a></span></td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2009</td>
+			<td class="starred"><i class="fa fa-star favorite" aria-hidden="true"></i></td>
+		</tr>
+		<tr>
+			<td class="author">Cairo, Alberto</td>
+			<td class="title">The Functional Art: An Introduction to Information Graphics and Visualization</td>
+			<td class="category">Visualization - Design</td>
+			<td class="year">2012</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Reitz, Kenneth and‎ Tanya Schlusser</td>
+			<td class="title"><span class="booktitle"><a href='http://docs.python-guide.org/en/latest/' target="_blank">The Hitchhiker’s Guide to Python</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Oetiker, Tobias</td>
+			<td class="title"><span class="booktitle"><a href='https://tobi.oetiker.ch/lshort/lshort.pdf' target="_blank">The Not So Short Introduction to LATEX 2ε</a></span></td>
+			<td class="category">Programming - Typesetting</td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Python Software Foundation</td>
+			<td class="title"><span class="booktitle"><a href='https://docs.python.org/3/tutorial/' target="_blank">The Python Tutorial</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2017</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Nilsson, Nils</td>
+			<td class="title"><span class="booktitle"><a href='http://ai.stanford.edu/~nilsson/QAI/qai.pdf' target="_blank">The Quest for Artificial Intelligence: A History of Ideas and Achivements</a></span></td>
+			<td class="category">Data Science as a Field</span></td>
+			<td class="year">2010</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Stitch</td>
+			<td class="title"><span class="booktitle"><a href='https://www.stitchdata.com/resources/reports/the-state-of-data-science/' target="_blank">The State of Data Science</a></span></td>
+			<td class="category">Data Science as a Field</span></td>
+			<td class="year">2016</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Tufte, Edward</td>
+			<td class="title">The Visual Display of Quantitative Information</td>
+			<td class="category">Visualization - Design</td>
+			<td class="year">2001</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Downey, Allen</td>
+			<td class="title"><span class="booktitle"><a href='http://greenteapress.com/wp/think-bayes/' target="_blank">Think Bayes: Bayesian Statistics Made Simple</a></span></td>
+			<td class="category">Machine Learning - Bayesian Methods</td>
+			<td class="year">2013</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Downey, Allen</td>
+			<td class="title"><span class="booktitle"><a href='http://greenteapress.com/complexity/index.html' target="_blank">Think Complexity: Complexity Science and Computational Modeling</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2012</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Downey, Allen</td>
+			<td class="title"><span class="booktitle"><a href='http://greenteapress.com/wp/think-python-2e/' target="_blank">Think Python: How to Think Like a Computer Scientist</a></span></td>
+			<td class="category">Programming - Python</td>
+			<td class="year">2015</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Downey, Allen</td>
+			<td class="title"><span class="booktitle"><a href='http://greenteapress.com/thinkstats2/index.html' target="_blank">Think Stats: Probability and Statistics for Programmers</a></span></td>
+			<td class="category">Probability and Statistics</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+		<tr>
+			<td class="author">Shalev-Shwartz, Shai and Shai Ben-David</td>
+			<td class="title"><span class="booktitle"><a href='http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/' target="_blank">Understanding Machine Learning: From Theory to Algorithms</a></span></td>
+			<td class="category">Machine Learning</span></td>
+			<td class="year">2014</td>
+			<td class="starred"></td>
+		</tr>
+	</tbody>
+</table>
+
+####### TOOLS ######
+
+<table class="table">
+	<thead>
+	<tr>
+		<th>Name</th>
+		<th>Topic</th>
+		<th>Description</th>
+	</tr>
+	</thead>
+	<tbody class="list">
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.anaconda.com/download/' target="_blank">Anaconda Python Distribution</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">Distribution for Python with package manager</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.authorea.com/' target="_blank">Authorea</a></span</td>
+			<td class="topic">Collaborative Writing</td>
+			<td class="description">Online scientific document collaboration</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://bokeh.pydata.org/en/latest/' target="_blank">Bokeh</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">Interactive plotting tools</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://cmder.net/' target="_blank">cmder</a></span</td>
+			<td class="topic">Command Line</td>
+			<td class="description">Console emulator for Windows</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://vrl.cs.brown.edu/color' target="_blank">Colorgorical</a></span</td>
+			<td class="topic">Color Palette Generator</td>
+			<td class="description">Online color palette generator</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://commonmark.org/' target="_blank">CommonMark</a></span</td>
+			<td class="topic">Markdown Language</td>
+			<td class="description">Markdown Language</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://d3js.org/' target="_blank">D3.js</a></span</td>
+			<td class="topic">Interactive visualization</td>
+			<td class="description">D3 (or Data Driven Documents) is an open-source JavaScript library for producing dynamic, interactive data visualizations in web browsers. Since this is based in JavaScript, visualizations are entirely customizable, but does require significant skill to use effectively</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.draw.io/' target="_blank">Draw.io</a></span</td>
+			<td class="topic">Graphics</td>
+			<td class="description">Online graphics platform</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://explainshell.com/' target="_blank">Explain Shell</a></span</td>
+			<td class="topic">Command Line</td>
+			<td class="description">Seach command-lines to see the help text that matches each argument</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://www.fabfile.org/' target="_blank">Fabric</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">Command line automation tool</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://git-scm.com/' target="_blank">Git</a></span</td>
+			<td class="topic">Version Control</td>
+			<td class="description">Open source distributed version control system - the de facto standard</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://github.com/' target="_blank">Github</a></span</td>
+			<td class="topic">Version Control</td>
+			<td class="description">Web hosting for git repositories</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://pages.github.com/' target="_blank">Github Pages</a></span</td>
+			<td class="topic">Web Publishing</td>
+			<td class="description">Host web pages from Github repositories</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://google.github.io/styleguide/' target="_blank">Google Style Guide</a></span</td>
+			<td class="topic">Programming</td>
+			<td class="description">Style guide for Python, R, Shell, HTML, CSS, Javascript, Java, and C++</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://jupyter.org/' target="_blank">Jupyter Notebook</a></span</td>
+			<td class="topic">Programming</td>
+			<td class="description">This application allows you to create and share documents that contain live code, equations, visualizations and explanatory text</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://choosealicense.com/' target="_blank">Open source license guide</a></span</td>
+			<td class="topic">License</td>
+			<td class="description">A guide to choosing an open source license</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://github.com/openai/gym' target="_blank">OpenAI Gym</a></span</td>
+			<td class="topic">Reinforcement Learning</td>
+			<td class="description">A toolkit for developing and comparing reinforcement learning algorithms</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://github.com/openai/universe' target="_blank">OpenAI Universe</a></span</td>
+			<td class="topic">Reinforcement Learning</td>
+			<td class="description">A toolkit for developing and comparing reinforcement learning algorithms, particularly video games</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.overleaf.com/' target="_blank">Overleaf</a></span</td>
+			<td class="topic">Collaborative Writing</td>
+			<td class="description">Online LaTeX collaboration</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://plot.ly/d3-js-for-python-and-pandas-charts/' target="_blank">Plot.ly for Python</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">Interactive plotting tools</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://pyformat.info/' target="_blank">PyFormat</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">Explanation of formatting in Python</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://regexr.com/' target="_blank">Regexer</a></span</td>
+			<td class="topic">Regular Expressions</td>
+			<td class="description">Interactive regular expression playground</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.yhat.com/products/rodeo' target="_blank">Rodeo</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">A Python integrated development environment</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://scrapy.org/' target="_blank">Scrapy</a></span</td>
+			<td class="topic">Web Scraping</td>
+			<td class="description">Scrape data from the web</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://pudding.cool/process/introducing-scrollama/' target="_blank">Scrollama</a></span</td>
+			<td class="topic">Interactive visualization</td>
+			<td class="description">Scrollers for interactive web visualizations</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.sharelatex.com/' target="_blank">ShareLaTeX</a></span</td>
+			<td class="topic">Collaborative Writing</td>
+			<td class="description">Online LaTeX collaboration</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://vallandingham.me/scroller.html' target="_blank">So You Want to Build A Scroller</a></span</td>
+			<td class="topic">Interactive visualization</td>
+			<td class="description">Scrollers for interactive web visualizations</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.python.org/dev/peps/pep-0008/' target="_blank">Style Guide for Python Code</a></span</td>
+			<td class="topic">Python</td>
+			<td class="description">Programming style guide</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.tableau.com/' target="_blank">Tableau</a></span</td>
+			<td class="topic">Data visualization</td>
+			<td class="description">Graphical user interface-based data visualization tool</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://tabula.technology/' target="_blank">Tabula</a></span</td>
+			<td class="topic">Data Scraping</td>
+			<td class="description">Extract data from tables</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://playground.tensorflow.org/' target="_blank">Tensorflow Playground</a></span</td>
+			<td class="topic">Neural Networks</td>
+			<td class="description">Interactive neural network playground</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://www.asimovinstitute.org/neural-network-zoo/' target="_blank">The Neural Network Zoo</a></span</td>
+			<td class="topic">Neural Networks</td>
+			<td class="description">A graphical cheat sheet for neural network architectures and acronyms</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://github.com/tmux/tmux/wiki' target="_blank">Tmux</a></span</td>
+			<td class="topic">Programming</td>
+			<td class="description">Terminal multiplexer</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.zotero.org/' target="_blank">Zotero</a></span</td>
+			<td class="topic">Reference Management</td>
+			<td class="description">Reference and citation management system for research</span></td>
+		</tr>
+	</tbody>
+</table>
+
+####### VIDEOS ######
+
+<table class="table">
+	<thead>
+	<tr>
+		<th>Author</th>
+		<th>Organization</th>
+		<th>Name</th>
+		<th>Description</th>
+	</tr>
+	</thead>
+	<tbody class="list">
+		<tr>
+			<td class="author">Sanderson, Grant</td>
+			<td class="organization">3Brown1Blue</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab' target="_blank">Essence of Linear Algebra</a></span</td>
+			<td class="description">Video series on a geometric interpretation of linear algebra concepts</span></td>
+		</tr>
+		<tr>
+			<td class="author">Hastie, Treveor</td>
+			<td class="organization">H2O.ai</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/watch?v=wPqtzj5VZus' target="_blank">Gradient Boosting and Machine Learning</a></span</td>
+			<td class="description">Discussion of ensemble learning including random forests and gradient boosting</span></td>
+		</tr>
+		<tr>
+			<td class="author">Abu-Mostafa, Yaser</td>
+			<td class="organization">Caltech</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/watch?v=XUj5JbQihlU' target="_blank">Kernel Functions</a></span</td>
+			<td class="description">Description of kernel functions and how they are used</span></td>
+		</tr>
+		<tr>
+			<td class="author">Welch, Stephen</td>
+			<td class="organization">Welch Labs</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV' target="_blank">Learning to See</a></span</td>
+			<td class="description">Intuitive, visual explanation of machine learning</span></td>
+		</tr>
+		<tr>
+			<td class="author">Klein, Dan and Pieter Abbeel</td>
+			<td class="organization">Berkeley</td>
+			<td class="name"><span class="booktitle"><a href='http://ai.berkeley.edu/lecture_videos.html' target="_blank">Machine Learning</a></span</td>
+			<td class="description">Artificial Intelligence and Reinforcement Learning lectures</span></td>
+		</tr>
+		<tr>
+			<td class="author">Jurafsky, Dan</td>
+			<td class="organization">Stanford</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/playlist?list=PL6397E4B26D00A269' target="_blank">Natural Language Processing</a></span</td>
+			<td class="description">Video series on natural language processing (text analysis)</span></td>
+		</tr>
+		<tr>
+			<td class="author">Sanderson, Grant</td>
+			<td class="organization">3Brown1Blue</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi' target="_blank">Neural Networks</a></span</td>
+			<td class="description">Introductory video series on neural networks</span></td>
+		</tr>
+		<tr>
+			<td class="author">Welch, Stephen</td>
+			<td class="organization">Welch Labs</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU' target="_blank">Neural Networks Demystified</a></span</td>
+			<td class="description">Visual introduction to neural networks</span></td>
+		</tr>
+		<tr>
+			<td class="author">Ng, Andrew</td>
+			<td class="organization">Deep Learning School</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/watch?v=F1ka6a13S9I' target="_blank">Nuts and Bolts of Applying Deep Learning</a></span</td>
+			<td class="description">Andrew Ng speaks on advice for those looking to enter the field of machine learning</span></td>
+		</tr>
+		<tr>
+			<td class="author">Winston, Patrick</td>
+			<td class="organization">MIT Open Courseware</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/watch?v=_PwhiWxHK8o' target="_blank">Support Vector Machines</a></span</td>
+			<td class="description">An exceedingly lucid explantion of support vector machines - intuitively and mathematically</span></td>
+		</tr>
+		<tr>
+			<td class="author">Sanderson, Grant</td>
+			<td class="organization">3Brown1Blue</td>
+			<td class="name"><span class="booktitle"><a href='https://www.youtube.com/watch?v=3d6DsjIBzJ4&t=924s' target="_blank">Taylor Series</a></span</td>
+			<td class="description">Clear description of Taylor Series</span></td>
+		</tr>
+	</tbody>
+</table>
+
+####### DATA ######
+
+<table class="table">
+	<thead>
+	<tr>
+		<th>Name</th>
+		<th>Description</th>
+	</tr>
+	</thead>
+	<tbody class="list">
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://www.kaggle.com/datasets' target="_blank">Kaggle Datasets</a></span</td>
+			<td class="description">Kaggle's extensive collection of datasets</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://github.com/caesar0301/awesome-public-datasets' target="_blank">Awesome Public Datasets</a></span</td>
+			<td class="description">Curated list of datasets by Xiaming Chen</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='http://www.andbrain.com/' target="_blank">And Brain</a></span</td>
+			<td class="description">Combination of open and proprietary datasets</span></td>
+		</tr>
+		<tr>
+			<td class="name"><span class="booktitle"><a href='https://archive.ics.uci.edu/ml/datasets.html' target="_blank">UCI Machine Learning Repository</a></span</td>
+			<td class="description">The original machine learning data repository</span></td>
+		</tr>
+	</tbody>
+</table>
