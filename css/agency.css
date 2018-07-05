@@ -490,6 +490,7 @@ ul.social-buttons li a:active {
   top: 25px;
   right: 25px;
   cursor: pointer;
+  z-index: 100;
 }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
