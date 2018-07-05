@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /font-awesome/
 Disallow: /font/
-Sitemap: http://www.kylebradbury.org/sitemap.xml
+Sitemap: https://www.kylebradbury.org/sitemap.xml

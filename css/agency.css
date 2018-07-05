@@ -225,7 +225,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/header-lights-narrow.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/green_bulb.jpg');
   background-repeat: none;
   background-attachment: scroll;
   background-position: center center;
@@ -447,7 +447,7 @@ ul.social-buttons li a:active {
   box-shadow: none;
   border: none;
   min-height: 100%;
-  padding: 100px 0;
+  padding: 18px 0;
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
@@ -456,19 +456,31 @@ ul.social-buttons li a:active {
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
+  font-size: 18px;
+  text-align: left;
 }
+
+.portfolio-modal .modal-content p.caption {
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: "Lato", "Open Sans", sans-serif;
   font-style: normal;
-  font-size: 16px;
+  font-size: 20px;
+  text-align: center;
 }
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 30px;
   margin-top: 0;
 }
 .portfolio-modal .modal-content img {
-  margin-bottom: 30px;
+  margin-bottom: 5px;
 }
 .portfolio-modal .close-modal {
   position: absolute;
