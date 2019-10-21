@@ -1,5 +1,6 @@
 # Ignore archive files
 /archive
+/data_extraction/archive/
 
 # Ignore visualizations since those will have a separate repo for them
 /visualizations

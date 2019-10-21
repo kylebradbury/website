@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+part_1_up_to_resources = '''<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -173,14 +174,14 @@
                     <option value="Visualization - D3">Visualization - D3</option>
                 </select>
                 <br>
+                <button class="sort" data-sort="title">Sort Title</button>
                 <button class="sort" data-sort="author">Sort Author</button>
                 <button class="sort" data-sort="category">Sort Category</button>
                 <button class="sort" data-sort="year">Sort Year</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
-                
+                '''
 
-
-            </div>
+part_2_up_to_courses = '''            </div>
 
 
             <!-- ///////////// Online Machine Learning Courses ///////////// -->
@@ -191,14 +192,15 @@
             
             <div id="table-courses">
                 <input class="search" placeholder="Search" />
-                <button class="sort" data-sort="author">Sort Author</button>
+                <button class="sort" data-sort="author">Sort Instructor</button>
+                <button class="sort" data-sort="title">Sort Title</button>
                 <button class="sort" data-sort="university">Sort University</button>
                 <button class="sort" data-sort="year">Sort Year</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
 
+'''
 
-
-            </div>
+part_3_up_to_tools = '''            </div>
 
 
             <!-- ///////////// Tools ///////////// -->
@@ -208,12 +210,13 @@
             
             <div id="table-tools">
                 <input class="search" placeholder="Search" />
-                <button class="topic" data-sort="name">Sort Topic</button>
+                <button class="sort" data-sort="name">Sort Name</button>
+                <button class="sort" data-sort="topic">Sort Topic</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
 
+'''
 
-
-            </div>
+part_4_up_to_videos = '''            </div>
 
 
             <!-- ///////////// Videos ///////////// -->
@@ -225,11 +228,12 @@
                 <input class="search" placeholder="Search" />
                 <button class="sort" data-sort="author">Sort Author</button>
                 <button class="sort" data-sort="organization">Sort Organization</button>
+                <button class="sort" data-sort="name">Sort Name</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
 
+'''
 
-
-            </div>
+part_5 = '''            </div>
 
 
     </section>
@@ -321,3 +325,4 @@
 </body>
 
 </html>
+'''
