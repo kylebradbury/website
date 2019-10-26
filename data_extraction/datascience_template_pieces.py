@@ -9,10 +9,10 @@ part_1_up_to_resources = '''<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Kyle Bradbury works at the intersection of energy and data analytics, using machine learning techniques to increase the efficiency of energy systems.">
     <meta name="author" content="Kyle Bradbury">
-    <meta name="keywords" content="Energy, Data, Kyle Bradbury, Visualization, Data Visuzalization, Energy Data, Data Analytics">
+    <meta name="keywords" content="Energy, Data, Kyle Bradbury, Machine Learning, Visualization, Data Visualization, Energy Data, Data Analytics, Deep Learning">
     <META name="robots" content="index, follow">
 
-    <title>Kyle Bradbury: Energy Data Analytics Researcher and Educator</title>
+    <title>Data Science Pathways: Courses, Books, Tools, and Videos</title>
 
     <!--Favicon-->
     <link rel="shortcut icon" href="/my.ico" type="image/x-icon">
@@ -25,12 +25,10 @@ part_1_up_to_resources = '''<!DOCTYPE html>
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
-    <!-- 
-    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
+
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -77,9 +75,6 @@ part_1_up_to_resources = '''<!DOCTYPE html>
                     </li>
                     <li>
                         <a class="page-scroll" href="datascience.html">Data Science Pathways</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="/blog/">Blog</a>
                     </li>
                 </ul>
             </div>
@@ -169,7 +164,8 @@ part_1_up_to_resources = '''<!DOCTYPE html>
                     <option value="Mathematics - Differential Equations">Mathematics - Differential Equations</option>
                     <option value="Programming - Python">Programming - Python</option>
                     <option value="Programming - R">Programming - R</option>
-                    <option value="Programming - SQL">Probability and Statistics</option>
+                    <option value="Programming - SQL">Programming - SQL</option>                            
+                    <option value="Probability and Statistics">Probability and Statistics</option>
                     <option value="Visualization - Design">Visualization - Design</option>
                     <option value="Visualization - D3">Visualization - D3</option>
                 </select>
@@ -280,7 +276,7 @@ part_5 = '''            </div>
     <script src="js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/cbpAnimatedHeader.js"></script>
 
