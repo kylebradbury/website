@@ -12,7 +12,7 @@ part_1_up_to_resources = '''<!DOCTYPE html>
     <meta name="keywords" content="Energy, Data, Kyle Bradbury, Machine Learning, Visualization, Data Visualization, Energy Data, Data Analytics, Deep Learning">
     <META name="robots" content="index, follow">
 
-    <title>Data Science Pathways: Courses, Books, Tools, and Videos</title>
+    <title>Data Science Courses, Books, and Tools</title>
 
     <!--Favicon-->
     <link rel="shortcut icon" href="/my.ico" type="image/x-icon">
@@ -40,6 +40,10 @@ part_1_up_to_resources = '''<!DOCTYPE html>
 </head>
 
 <body id="page-top" class="index">
+
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+        <i class="fa fa-angle-up fa-2x"></i>
+    </button>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
@@ -74,7 +78,7 @@ part_1_up_to_resources = '''<!DOCTYPE html>
                         <a class="page-scroll" href="index.html#team">Contact</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="datascience.html">Data Science Pathways</a>
+                        <a class="page-scroll" href="#page-top">Data Science Pathways</a>
                     </li>
                 </ul>
             </div>
@@ -95,20 +99,122 @@ part_1_up_to_resources = '''<!DOCTYPE html>
     </header>
 
     <!-- Services Section -->
-    <section id="intro">
+    <section id="portfolio">
         <div class="container container-fluid">
             <h1><span class="h1-title-heavy">Data Science</span> <span class="h1-title-light">Pathways</span></h1>
-            <p>As a field that is actually a synthesis of a number of well-established fields, the skills that make for a successful data scientist come from a variety of disciplines including statistics, mathematics, and computer science. Navigating a pathway through developing skills in all of these fields can be challenging. To help provide pathways through data science skill development, I've compiled a list of resources building and expanding data science knowledge:</p>
 
-            <ul>
-                <li><p><b><a href="#comptools">Computational Tools</a></b>. Programming tools and useful packages.</p></li>
-                <li><p><b><a href="#resources">Resources and References</a></b>. A curated collection of educational resources on a wide variety of core data science concepts.</p></li>
-                <li><p><b><a href="#courses">Online Courses</a></b>. Course content on machine learning made available on the web from dozens of universities.</p></li>
-                <li><p><b><a href="#tools">Tools</a></b>. Data science tools on a variety of topics including visualization, markdown, and technical writing.</p></li>
-                <li><p><b><a href="#videos">Videos</a></b>. Data science videos.</p></li>
-                <li><p><b><a href="./docs/resources/Data-Science-Checklist.pdf" target="_blank">Data Science Concept Checklist</a></b>. Checklist of core and advanced concepts in data science across the three primary disciplines (mathematics, statistics &amp; machine learning, and computer science) organized by topical areas. This can act as a roadmap through which concepts to explore or as a tool for evaluating opportunities for expanding your existing skillset.</p></li>
-            </ul>
-            
+            <p>As a field that is actually a synthesis of a number of well-established fields, the skills that make for a successful data scientist come from a variety of disciplines including statistics, mathematics, and computer science. Navigating a pathway through developing skills in all of these fields can be challenging. To help provide pathways through data science skill development, I've compiled a list of resources building and expanding data science knowledge:</p>
+        </div>
+    </section>
+
+    <section id="portfolio">
+        <div class="container container-fluid">
+            <div class="row">
+
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <a href="./docs/resources/Data-Science-Checklist.pdf" target="_blank" title="Data Science Concept Checklist" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/datascience/checklist.png" class="img-responsive" alt="Data Science Concept Checklist">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Data Science Concept Checklist</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <a href="#comptools" title="Programming Tools" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/datascience/programming.jpg" class="img-responsive" alt="Programming Tools">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Programming Tools</h4>
+                        <p class="text-muted">Languages and useful packages.</p>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <a href="#resources" title="References" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/datascience/references.jpg" class="img-responsive" alt="References">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>References</h4>
+                        <p class="text-muted">Educational resources on core data science concepts.</p>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <a href="#courses" title="Online Courses" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/datascience/courses.jpg" class="img-responsive" alt="Online Courses">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Online Courses</h4>
+                        <p class="text-muted">Course content from universities.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <a href="#tools" title="Tools" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/datascience/tools.jpg" class="img-responsive" alt="Tools">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Tools</h4>
+                        <p class="text-muted">Data science software and research tools.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 col-sm-6 portfolio-item">
+                    <a href="#videos" title="Videos" class="portfolio-link">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/datascience/videos.jpg" class="img-responsive" alt="Videos">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Videos</h4>
+                        <p class="text-muted">Data science videos</p>
+                    </div>
+                </div>
+
+            </div>
+            </div>  
+        </div>
+    </section>
+
+    <section>
+        <div class="container container-fluid">
 
             <!-- ///////////// TOOLS ///////////// -->
             <hr>
@@ -149,7 +255,7 @@ part_1_up_to_resources = '''<!DOCTYPE html>
 
             <!-- ///////////// RESOURCES ///////////// -->
             <hr>
-            <h1 id="resources">Resources and References</h1>
+            <h1 id="resources">References</h1>
             <p>Recommendations are indicated with a star (<i class="fa fa-star favorite" aria-hidden="true"></i>).</p>
             
             <div id="table-resources">
@@ -175,14 +281,16 @@ part_1_up_to_resources = '''<!DOCTYPE html>
                 <button class="sort" data-sort="category">Sort Category</button>
                 <button class="sort" data-sort="year">Sort Year</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
-                '''
 
-part_2_up_to_courses = '''            </div>
+<!-- START OF REFERNCE TABLE -->
+'''
 
+part_2_up_to_courses = '''<!-- END OF REFERNCE TABLE -->
+</div>
 
             <!-- ///////////// Online Machine Learning Courses ///////////// -->
             <hr>
-            <h1 id="courses">Online Course Materials</h1>
+            <h1 id="courses">Courses with Online Materials</h1>
             <p>Recommendations are indicated with a star (<i class="fa fa-star favorite" aria-hidden="true"></i>).</p>
 
             
@@ -194,9 +302,13 @@ part_2_up_to_courses = '''            </div>
                 <button class="sort" data-sort="year">Sort Year</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
 
+
+<!-- START OF COURSES TABLE -->
 '''
 
-part_3_up_to_tools = '''            </div>
+part_3_up_to_tools = '''<!-- END OF COURSES TABLE -->
+
+            </div>
 
 
             <!-- ///////////// Tools ///////////// -->
@@ -210,9 +322,13 @@ part_3_up_to_tools = '''            </div>
                 <button class="sort" data-sort="topic">Sort Topic</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
 
+<!-- START OF TOOLS TABLE -->
+
 '''
 
-part_4_up_to_videos = '''            </div>
+part_4_up_to_videos = '''<!-- END OF TOOLS TABLE -->
+
+            </div>
 
 
             <!-- ///////////// Videos ///////////// -->
@@ -227,9 +343,13 @@ part_4_up_to_videos = '''            </div>
                 <button class="sort" data-sort="name">Sort Name</button>
                 <a href="#top"><i class="fa fa-arrow-up" aria-hidden="true"></i> back to top</a>
 
+
+<!-- START OF VIDEOS TABLE -->
 '''
 
-part_5 = '''            </div>
+part_5 = '''<!-- END OF VIDEOS TABLE -->
+
+            </div>
 
 
     </section>
@@ -291,6 +411,9 @@ part_5 = '''            </div>
     <script src="js/list.js"></script>
     <script src="js/list_config.js"></script>
 
+    <!-- Implements the scroll to top button -->
+    <script src="js/scroll_to_top.js"></script>
+
     <!-- Tooltips -->
     <script>
         $(document).ready(function(){
@@ -321,4 +444,5 @@ part_5 = '''            </div>
 </body>
 
 </html>
+
 '''

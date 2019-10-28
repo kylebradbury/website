@@ -13,7 +13,9 @@ $(document).ready(function () {
                 return (item.values().category == selection);
             });
         } else {
-            userList.filter();
+            resourceList.filter(function(item) {
+                return true;
+            });
         }
     });
 });

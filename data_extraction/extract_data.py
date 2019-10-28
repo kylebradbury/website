@@ -22,8 +22,8 @@ def convert_courses_to_table(df):
     # Add Rows
     for index,doc in df.iterrows():
         html += '\t\t<tr>\n'
-        html += '\t\t\t<td class="author">' + doc['Instructor Last'] + '</td>\n'            
         html += '\t\t\t<td class="title"><span  title=\'' + doc['Course Name'] + '\' class="booktitle"><a href=\'' + doc['Website'] + '\' target="_blank">' + doc['Course Name'] + '</a></span></td>\n'        
+        html += '\t\t\t<td class="author">' + doc['Instructor Last'] + '</td>\n'            
         html += '\t\t\t<td class="designation">' + doc['Course Designation'] + '</span></td>\n'        
         html += '\t\t\t<td class="university">' + doc['University'] + '</span></td>\n'
         html += '\t\t\t<td class="year">' + str(doc['Year']) + '</td>\n'
@@ -56,12 +56,13 @@ def convert_references_to_table(df):
     # Add Rows
     for index,doc in df.iterrows():
         html += '\t\t<tr>\n'
-        html += '\t\t\t<td class="author">' + doc['Author'] + '</td>\n'
             
         if doc['Free']=='Yes':
             html += '\t\t\t<td class="title"><span  title=\'' + doc['Name'] + '\' class="booktitle"><a href=\'' + doc['Link'] + '\' target="_blank">' + doc['Name'] + '</a></span></td>\n'
         else:
             html += '\t\t\t<td class="title">' + doc['Name'] + '</td>\n'
+        
+        html += '\t\t\t<td class="author">' + doc['Author'] + '</td>\n'
         
         if pd.isnull(doc['Subcategory']):
             html += '\t\t\t<td class="category">' + doc['Category'] + '</span></td>\n'
@@ -128,9 +129,9 @@ def convert_videos_to_table(df):
     # Add Rows
     for index,doc in df.iterrows():
         html += '\t\t<tr>\n'
+        html += '\t\t\t<td class="name"><span class="booktitle"><a href=\'' + doc['Link'] + '\' target="_blank">' + doc['Name'] + '</a></span></td>\n' 
         html += '\t\t\t<td class="author">' + doc['Author'] + '</td>\n'
         html += '\t\t\t<td class="organization">' + doc['Organization'] + '</td>\n'            
-        html += '\t\t\t<td class="name"><span class="booktitle"><a href=\'' + doc['Link'] + '\' target="_blank">' + doc['Name'] + '</a></span></td>\n'        
         html += '\t\t\t<td class="description">' + doc['Description'] + '</span></td>\n'        
         html += '\t\t</tr>\n'
     
