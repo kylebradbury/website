@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/kylebra2/public_html/dev/site_test/
+    - export DEPLOYPATH=/home1/kylebra2/public_html/
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R font-awesome $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
