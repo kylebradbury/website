@@ -25,6 +25,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         port: ${{ secrets.PORT }}
         key: ${{ secrets.KEY }}
-        source: "*,!.github/,!.git/,!.gitignore"
+        source: "*,!.github/*,!.git/*,!.gitignore"
         target: ${{ secrets.TARGET }}
         use_insecure_cipher: true
