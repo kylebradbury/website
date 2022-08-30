@@ -4,3 +4,5 @@
 
 # Ignore mac directory files
 .DS_Store
+*/__pycache__/
+/img/raw_papers/
